@@ -365,5 +365,3 @@ docker run -it --rm -p 8000:8000 opensecurity/mobile-security-framework-mobsf:la
 ```
 
 Puis ouvrir l'interface de MobSF via http://127.0.0.1:8000 en utilisant le login par default : `mobsf/mobsf` et importer l'APK dessus pour générer le rapport et l'analyser.
-
-{"alg":"EdDSA","typ":"JWT"}{"action":"CHALLENGE","challenge":"019f6637-ae4d-798f-a581-cc6570772302","exp":1784731154,"iat":1784126354,"method":"preact","nbf":1784126294,"policyRule":"ac980f49c4d35fab","restriction":"9b373bee976bca817f3e4a7484ee837dc8e86a9ae845767d6ae3f590bf376802"}
